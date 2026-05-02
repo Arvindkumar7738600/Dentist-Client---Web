@@ -16,7 +16,7 @@ export const DOCTOR = {
   name: "Dr. Mohit Sharma",
   title: "BDS, MDS — Cosmetic & Implant Dentistry",
   experience: "7+ years of clinical experience",
-  bio: "Dr. Mohit is the founding dentist at Mohit Dental Care, known for his gentle chair-side manner and meticulous, design-led approach to smile restoration. He has helped over 4,000 patients regain their confidence through cosmetic dentistry, implants, and aligner therapy.",
+  bio: "Dr. Mohit is the founding dentist at Mohit Dental Care, known for his gentle chair-side manner and meticulous, design-led approach to smile restoration. He has helped over 2,200 patients regain their confidence through cosmetic dentistry, implants, and aligner therapy.",
   philosophy: "I believe great dentistry is invisible — it should feel calm, look natural, and last a lifetime.",
   education: [
     { year: "2008", text: "BDS — King George's Medical University, Lucknow" },
@@ -25,7 +25,7 @@ export const DOCTOR = {
     { year: "2019", text: "Advanced Invisalign Provider Certification" },
   ],
   highlights: [
-    "4,200+ smiles restored",
+    "2,200+ smiles restored",
     "Member, Indian Dental Association",
     "Speaker at 12+ international conferences",
     "Published in Journal of Clinical Dentistry",

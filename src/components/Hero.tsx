@@ -14,7 +14,7 @@ export const Hero = () => {
         <div className="space-y-8 animate-float-up">
           <div className="inline-flex items-center gap-2 rounded-full border border-border bg-card/60 px-3 py-1.5 text-xs font-medium backdrop-blur">
             <ShieldCheck className="h-3.5 w-3.5 text-primary" />
-            Trusted by 4,200+ patients
+            Trusted by 2,200+ patients
           </div>
 
           <h1 className="font-display text-5xl sm:text-6xl lg:text-7xl font-bold leading-[1.05] tracking-tight">
@@ -42,7 +42,7 @@ export const Hero = () => {
 
           <div className="flex flex-wrap gap-6 pt-4">
             {[
-              { v: "15+", l: "years of practice" },
+              { v: "7+", l: "years of practice" },
               { v: "98%", l: "patient satisfaction" },
               { v: "Same-day", l: "emergency care" },
             ].map(s => (
