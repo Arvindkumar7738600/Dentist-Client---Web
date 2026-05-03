@@ -7,7 +7,7 @@ import { DOCTOR } from "@/lib/clinic";
 import { Award, GraduationCap, Quote, Sparkles } from "lucide-react";
 
 const gallery = [
-  { src: clinic1, alt: "Lumen Dental reception lounge" },
+  { src: clinic1, alt: "Mohit Dental reception lounge" },
   { src: clinic2, alt: "Modern dental treatment room" },
   { src: clinic4, alt: "Friendly dental team with patient" },
   { src: clinic3, alt: "Sterilised dental instruments" },
